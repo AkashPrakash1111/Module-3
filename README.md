@@ -1,4 +1,6 @@
 #List Operations in Python: Sum of List Items
+## NAME: AKASH PRAKASH
+## REG NO: 212224240008
 ## Aim
 To write a Python program that calculates the **sum of all elements** in a list.
 ## Algorithm
